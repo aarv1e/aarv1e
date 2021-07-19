@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aarv1e
+- 👋 Hi, I’m Rahul Vishwakarma.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Python.
 - 💞️ I'm looking for a job in football analytics using python.
