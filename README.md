@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Vishwakarma.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Python.
-- 💞️ I'm looking for a job in football analytics using python.
+- 💞️ I'm looking for a job opportunity in python.
 - 📫 rvpbn1sd1@gmail.com
 
 <!---
